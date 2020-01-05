@@ -1,6 +1,6 @@
 HEADING
 
-<h1>`Welcome to Riyadh`</h1>
+`Welcome to Riyadh`
 
 SUB HEAD
 
